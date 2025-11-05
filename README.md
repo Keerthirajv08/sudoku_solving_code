@@ -1,0 +1,3 @@
+this is a sudoku game solver which generates random sudoku using random module 
+and solves it... 
+coded in python
